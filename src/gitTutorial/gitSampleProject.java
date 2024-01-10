@@ -2,6 +2,7 @@ package gitTutorial;
 
 public class gitSampleProject {
 	
-	//seitched
+	//switched
+	//Dev to Master
 	
 }
